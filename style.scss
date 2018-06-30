@@ -1,0 +1,12 @@
+$font-color: black;
+ body {
+   color: $font-color;
+   font-family: 'Raleway', sans-serif;
+   margin: 8px;
+   padding: 8px;
+ }
+
+.is-340x408 {
+  height: 340px;
+  width: 408px;
+}
